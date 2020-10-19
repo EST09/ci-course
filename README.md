@@ -1,5 +1,7 @@
 ![Python package](https://github.com/EST09/ci-course/workflows/Python%20package/badge.svg)
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/EST09/ci-course?branch=main)](https://bettercodehub.com/)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
